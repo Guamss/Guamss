@@ -1,4 +1,4 @@
 - 👋 Salut je suis Guams
 - 👀 J'aime dev en python et plus récement en java et en arduino
-- 🌱 J'apprend depuis peu le pygame, le discordpy l'arduino et les mods minecraft
+- 🌱 J'apprend depuis peu le pygame, le discord.py l'arduino et les mods minecraft
 - 📫 Si vous voulez me contacter vous pouvez le faire via discord : Guams#0777
