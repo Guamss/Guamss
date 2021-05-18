@@ -1,0 +1,4 @@
+- 👋 Salut je suis Guams
+- 👀 J'aime dev en python et plus récement en java
+- 🌱 J'apprend depuis peu le pygame et le discordpy
+- 📫 Si vous voulez me contacter vous pouvez le faire via discord : Guams#0777
