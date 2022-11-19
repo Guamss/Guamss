@@ -1,4 +1,5 @@
-- 👋 Salut je suis Guams
-- 👀 J'aime dev en python, plus récement en java et en arduino
-- 🌱 J'apprend depuis peu le l'html/css, le php, discord.py, kivy et le mySQL
-- 📫 Si vous voulez me contacter vous pouvez le faire via discord : Guams#0777
+- Frontend
+- Python
+- Java
+- SQL
+- Linux
