@@ -1,5 +1,1 @@
-- Frontend
-- Python
-- Java
-- SQL
-- Linux
+Just building shit
