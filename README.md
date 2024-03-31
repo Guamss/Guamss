@@ -6,7 +6,7 @@ I'm a computer science student and I'm currently studying at Vélizy university 
 
 - 🌱 I’m currently learning Django and Flask framework 
 
-- 📫 How to reach me alexischoisypro@gmail.com
+- 📫 How to reach me guams@duck.com
 
 The language I'm at ease with :
 - Python
