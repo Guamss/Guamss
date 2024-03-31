@@ -4,7 +4,7 @@ I'm a computer science student and I'm currently studying at Vélizy university 
 
 - The last project i did was about a Ticketing platform in PHP
 
-- 🌱 I’m currently learning Django and Flask framework 
+- 🌱 I’m currently learning Rust language and Flask framework 
 
 - 📫 How to reach me guams@duck.com
 
